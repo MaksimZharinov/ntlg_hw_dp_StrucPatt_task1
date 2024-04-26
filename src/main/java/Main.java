@@ -4,5 +4,8 @@ public class Main {
         System.out.println(calc.sum(2, 2));
         System.out.println(calc.sum(10, 22));
         System.out.println(calc.pow(2, 10));
+
+        //done this task
+        System.out.println(calc.mult(13, 13));
     }
 }
